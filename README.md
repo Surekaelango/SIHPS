@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:08/05/2024
-## Register Number:212221040173
-## Name:S.Trisha
+## Register Number:212221040167
+## Name:E.Sureka
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
